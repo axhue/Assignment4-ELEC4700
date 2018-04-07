@@ -1,0 +1,86 @@
+name: '4700'
+channels: !!python/tuple
+- !!python/unicode 'defaults'
+dependencies:
+- backports_abc=0.5=py34_0
+- bleach=1.5.0=py34_0
+- bokeh=0.12.4=py34_0
+- colorama=0.3.9=py34_0
+- conda-forge::ca-certificates=2017.11.5=0
+- conda-forge::ffmpeg=3.4.1=2
+- conda-forge::freetype=2.6.3=vc10_1
+- conda-forge::icu=58.1=vc10_0
+- conda-forge::jpeg=9b=vc10_0
+- conda-forge::libiconv=1.14=vc10_4
+- conda-forge::libpng=1.6.28=vc10_0
+- conda-forge::libtiff=4.0.6=vc10_7
+- conda-forge::libxml2=2.9.3=vc10_9
+- conda-forge::matplotlib=2.0.0=np111py34_1
+- conda-forge::openssl=1.0.2h=vc10_3
+- conda-forge::plotly=2.0.0=py34_0
+- conda-forge::pyqt=4.11.4=py34_2
+- conda-forge::qt=4.8.7=vc10_6
+- conda-forge::qtconsole=4.2.1=py34_1
+- conda-forge::tk=8.6.6=vc10_4
+- conda-forge::zlib=1.2.8=vc10_3
+- cycler=0.10.0=py34_0
+- decorator=4.1.2=py34_0
+- entrypoints=0.2.3=py34_0
+- html5lib=0.999=py34_0
+- ipykernel=4.6.1=py34_0
+- ipython=5.3.0=py34_0
+- ipython_genutils=0.2.0=py34_0
+- ipywidgets=5.2.2=py34_1
+- jinja2=2.9.6=py34_0
+- jsonschema=2.6.0=py34_0
+- jupyter=1.0.0=py34_3
+- jupyter_client=5.1.0=py34_0
+- jupyter_console=5.0.0=py34_0
+- jupyter_core=4.3.0=py34_0
+- markupsafe=1.0=py34_0
+- mistune=0.7.4=py34_0
+- mkl=2017.0.3=0
+- nbconvert=5.2.1=py34_0
+- nbformat=4.3.0=py34_0
+- notebook=5.0.0=py34_0
+- numpy=1.11.3=py34_0
+- pandas=0.19.2=np111py34_1
+- pandocfilters=1.4.1=py34_0
+- path.py=10.0=py34_0
+- pickleshare=0.7.4=py34_0
+- pip=9.0.1=py34_1
+- prompt_toolkit=1.0.14=py34_0
+- pygments=2.2.0=py34_0
+- pyparsing=2.2.0=py34_0
+- python=3.4.5=0
+- python-dateutil=2.6.1=py34_0
+- pytz=2017.2=py34_0
+- pyyaml=3.12=py34_0
+- pyzmq=16.0.2=py34_0
+- requests=2.14.2=py34_0
+- scikit-learn=0.18.1=np111py34_1
+- scipy=0.19.1=np111py34_0
+- seaborn=0.7.1=py34_0
+- setuptools=27.2.0=py34_1
+- simplegeneric=0.8.1=py34_1
+- sip=4.18=py34_0
+- six=1.10.0=py34_0
+- testpath=0.3.1=py34_0
+- tornado=4.5.1=py34_0
+- traitlets=4.3.2=py34_0
+- vc=10=0
+- vs2010_runtime=10.00.40219.1=2
+- wcwidth=0.1.7=py34_0
+- wheel=0.29.0=py34_0
+- widgetsnbextension=1.2.6=py34_0
+- win_unicode_console=0.5=py34_0
+- pip:
+  - backports-abc==0.5
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.0.0
+  - jupyter-core==4.3.0
+  - prompt-toolkit==1.0.14
+  - win-unicode-console==0.5
+prefix: C:\SPB_Data\.conda\envs\4700
+
